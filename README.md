@@ -1,2 +1,1 @@
-# NYC_Dog_Licenses_data
-
+This repository contains my homework for the Lede Program using pandas. The assignment was based on a dataset of licensed dogs in New York City, provided by the instructor. All questions and the structure of the notebook were given as part of the exercise.
